@@ -1,0 +1,1 @@
+我编写的C#程序，上面有个按钮，我去ghidra里面搜索，发现一个InitializeComponent的函数，在google上搜索，是c# or wpf的程序
